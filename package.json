@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "debug": "^2.0.0",
-    "fetchr": "^0.5.18"
+    "fetchr": "git+ssh://git@github.com:iryusa/fetchr#master",
   },
   "devDependencies": {
     "chai": "^2.0.0",
